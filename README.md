@@ -82,8 +82,6 @@ pip install pandas matplotlib seaborn scikit-learn textblob wordcloud
 
 Open `Sentiment_analysis.ipynb` in Jupyter or Google Colab and run all cells.
 
-> **Note:** The dataset path is set to `/content/Tweets.csv` (Google Colab). If running locally, update it to point to your local file.
-
 ---
 
 ## 💡 Key Findings
@@ -94,5 +92,5 @@ Negative tweets dominate the airline dataset — a common pattern in customer se
 
 ## 👩‍💼 Author
 
-**Jiya** — Computer Science Graduate & Data Enthusiast
+**Javariya Sohail** — Computer Science Graduate & Data Enthusiast
 
